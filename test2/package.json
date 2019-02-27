@@ -7,7 +7,10 @@
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
     "scatterjs-core": "^2.7.14",
-    "scatterjs-plugin-eosjs": "^1.5.1"
+    "scatterjs-plugin-eosjs": "^1.5.1",
+    "superagent" :"^4.1.0",
+    "react-unity-webgl" :"^7.0.9",
+    "eosjs" :"^16.0.9"
   },
   "scripts": {
     "start": "react-scripts start",
