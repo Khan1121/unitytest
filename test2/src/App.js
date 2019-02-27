@@ -19,8 +19,8 @@ const testnetserver = 'http://3.1.78.155/'
 
 // 유니티 객체를 전역으로 설정
 let unityContent = new UnityContent(
-    "http://192.168.219.119:3000/Build/TestBuild.json",
-    "http://192.168.219.119:3000/Build/UnityLoader.js",
+    "https://romantic-ritchie-048896.netlify.com/Build/TestBuild.json",
+    "https://romantic-ritchie-048896.netlify.com/Build/UnityLoader.js",
     {
         adjustOnWindowResize: true
     }
