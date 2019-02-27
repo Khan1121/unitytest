@@ -1,4 +1,9 @@
 [build]
-base = " test2 /"
-publish = " test2 / public /"
+base = "test2/"
+publish = "test2/public/"
 command = "yarn build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
