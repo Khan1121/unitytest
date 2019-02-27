@@ -1,6 +1,6 @@
 {
-"companyName": "DevTooth",
-"productName": "UnlimitedTower",
+"companyName": "DefaultCompany",
+"productName": "Test",
 "dataUrl": "TestBuild.data.unityweb",
 "asmCodeUrl": "TestBuild.asm.code.unityweb",
 "asmMemoryUrl": "TestBuild.asm.memory.unityweb",
